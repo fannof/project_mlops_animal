@@ -1,3 +1,3 @@
 # project_mlops_animal
 
-ini akan diisi SEGERA!!!
+Mengembangkan Machine Learning Pipeline untuk Sentiment Analysis Menggunakan Tensorflow Extended
