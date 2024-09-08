@@ -8,9 +8,12 @@ Pipeline TFX terdiri dari beberapa komponen, yang dapat mencakup:
 
 2. StatisticsGen: Menghitung statistik untuk dataset.
 
-SchemaGen: Menghasilkan schema untuk dataset.
-ExampleValidator: Mendeteksi anomali dalam dataset.
-Transform: Melakukan pra-pemrosesan data.
+3. SchemaGen: Menghasilkan schema untuk dataset.
+
+4. ExampleValidator: Mendeteksi anomali dalam dataset.
+
+5. Transform: Melakukan pra-pemrosesan data.
+
 Trainer: Melatih model menggunakan TensorFlow.
 Evaluator: Mengevaluasi performa model.
 Pusher: Mendepoy model ke lingkungan produksi.
