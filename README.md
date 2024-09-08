@@ -4,8 +4,10 @@ Mengembangkan Machine Learning Pipeline untuk Klasifikasi Gambar Hewan Menggunak
 
 Pipeline TFX terdiri dari beberapa komponen, yang dapat mencakup:
 
-ExampleGen: Memuat dataset.
-StatisticsGen: Menghitung statistik untuk dataset.
+1. ExampleGen: Memuat dataset.
+
+2. StatisticsGen: Menghitung statistik untuk dataset.
+
 SchemaGen: Menghasilkan schema untuk dataset.
 ExampleValidator: Mendeteksi anomali dalam dataset.
 Transform: Melakukan pra-pemrosesan data.
