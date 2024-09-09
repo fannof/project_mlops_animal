@@ -26,9 +26,9 @@ Pada machine learning pipeline, komponen data ingestion akan mengerjakan beberap
 
 •	Tahapan pengumpulan data (extract)
 
-    Pada tahapan ini, komponen data ingestion akan mengumpulkan data dari berbagai sumber. Sumber data ini bisa bermacam-macam mulai dari database hingga perangkat IoT.
+  Pada tahapan ini, komponen data ingestion akan mengumpulkan data dari berbagai sumber. Sumber data ini bisa bermacam-macam mulai dari database hingga perangkat IoT.
 
 •	Tahapan pengubahan format data (transform)
 
-    Tahapan kedua yang umum dijumpai adalah mengubah format data sesuai dan dapat diproses oleh komponen lain dalam sebuah machine learning pipeline. Ingatlah bahwa pada tahapan ini, kita hanya melakukan pengubahan format suatu data ke dalam format standar.
+  Tahapan kedua yang umum dijumpai adalah mengubah format data sesuai dan dapat diproses oleh komponen lain dalam sebuah machine learning pipeline. Ingatlah bahwa pada tahapan ini, kita hanya melakukan pengubahan format suatu data ke dalam format standar.
 
