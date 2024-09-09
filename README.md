@@ -23,3 +23,7 @@ Pipeline TFX terdiri dari beberapa komponen, yang dapat mencakup:
 Tahapan dalam Data Ingestion
 
 Pada machine learning pipeline, komponen data ingestion akan mengerjakan beberapa tahapan untuk memastikan data yang masuk telah sesuai dan dapat diproses oleh komponen lain. Anda dapat menganggap tahapan ini sebagai proses ETL (extract, transform, load) yang sederhana.
+
+•	Tahapan pengumpulan data (extract)
+
+Pada tahapan ini, komponen data ingestion akan mengumpulkan data dari berbagai sumber. Sumber data ini bisa bermacam-macam mulai dari database hingga perangkat IoT.
