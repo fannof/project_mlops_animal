@@ -39,3 +39,15 @@ Tahapan dalam Data Ingestion
 Data Schema
 
 Data schema merupakan gambaran singkat yang merepresentasi suatu dataset. Ia memuat beberapa informasi penting seperti fitur yang terdapat pada dataset dan tipe dari fitur tersebut. Selain itu, data schema juga memuat batasan yang ada pada suatu dataset, seperti nilai maksimum, minimum, dan jumlah missing value dari suatu fitur yang dapat ditoleransi. Seluruh informasi ini akan digunakan sebagai acuan untuk memvalidasi data baru (serving data).
+
+Tahapan dalam Data Validation
+
+Tujuan dari data validation ialah memvalidasi suatu data sebelum digunakan oleh komponen selanjutnya dalam sebuah machine learning pipeline. Pada prosesnya terdapat tiga komponen yang akan diperiksa [9].
+
+•	Pemeriksaan parameter statistik. Pemeriksaan ini dilakukan untuk memastikan parameter statistik dari data yang baru sesuai dengan training dataset.
+
+•	Pemeriksaan data schema. Hal ini dilakukan untuk memastikan tidak terjadi perubahan dalam sebuah data schema.
+
+•	Pemeriksaan anomali. Pemeriksaan ini untuk mendeteksi apabila terjadi anomali pada suatu data. 
+
+Proses data validation diawali dengan menghitung parameter statistik (baseline stats) dan data schema dari training dataset. Keduanya akan dijadikan sebagai parameter standar untuk memvalidasi data baru (serving data).
