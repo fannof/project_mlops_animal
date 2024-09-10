@@ -36,3 +36,6 @@ Tahapan dalam Data Ingestion
 
    Tahap terakhir adalah memuat atau mentransfer data yang telah ditransformasi ke komponen lain yang terdapat dalam machine learning pipeline. Pada tahapan ini sering kali kita menambahkan proses split data untuk membagi data menjadi beberapa kategori, seperti training, evaluation, dan test set.
 
+Data Schema
+
+Data schema merupakan gambaran singkat yang merepresentasi suatu dataset. Ia memuat beberapa informasi penting seperti fitur yang terdapat pada dataset dan tipe dari fitur tersebut. Selain itu, data schema juga memuat batasan yang ada pada suatu dataset, seperti nilai maksimum, minimum, dan jumlah missing value dari suatu fitur yang dapat ditoleransi. Seluruh informasi ini akan digunakan sebagai acuan untuk memvalidasi data baru (serving data).
