@@ -49,5 +49,3 @@ Tujuan dari data validation ialah memvalidasi suatu data sebelum digunakan oleh 
 •	Pemeriksaan data schema. Hal ini dilakukan untuk memastikan tidak terjadi perubahan dalam sebuah data schema.
 
 •	Pemeriksaan anomali. Pemeriksaan ini untuk mendeteksi apabila terjadi anomali pada suatu data. 
-
-Proses data validation diawali dengan menghitung parameter statistik (baseline stats) dan data schema dari training dataset. Keduanya akan dijadikan sebagai parameter standar untuk memvalidasi data baru (serving data).
