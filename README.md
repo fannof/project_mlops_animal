@@ -1,6 +1,6 @@
 # project_mlops_animal
 
-Mengembangkan Machine Learning Pipeline untuk Klasifikasi Gambar Hewan Menggunakan Tensorflow Extended
+Mengembangkan Machine Learning Pipeline untuk Klasifikasi Gambar Hewan Menggunakan Tensorflow Extended.
 
 Pipeline TFX terdiri dari beberapa komponen, yang dapat mencakup:
 
