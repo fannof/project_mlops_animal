@@ -10,7 +10,7 @@ Pipeline TFX terdiri dari beberapa komponen, yang dapat mencakup:
 
 3. SchemaGen: Menghasilkan schema untuk dataset
 
-4. ExampleValidator: Mendeteksi anomali dalam dataset.
+4. ExampleValidator: Mendeteksi anomali dalam dataset
 
 5. Transform: Melakukan pra-pemrosesan data.
 
