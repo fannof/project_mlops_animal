@@ -39,7 +39,3 @@ Tahapan dalam Data Ingestion
 --Data Schema
 
 Data schema merupakan gambaran singkat yang merepresentasi suatu dataset. Ia memuat beberapa informasi penting seperti fitur yang terdapat pada dataset dan tipe dari fitur tersebut. Selain itu, data schema juga memuat batasan yang ada pada suatu dataset, seperti nilai maksimum, minimum, dan jumlah missing value dari suatu fitur yang dapat ditoleransi. Seluruh informasi ini akan digunakan sebagai acuan untuk memvalidasi data baru (serving data).
-
-Tahapan dalam Data Validation
-
-
