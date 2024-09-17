@@ -43,6 +43,3 @@ Data schema merupakan gambaran singkat yang merepresentasi suatu dataset. Ia mem
 Tahapan dalam Data Validation
 
 Tujuan dari data validation ialah memvalidasi suatu data sebelum digunakan oleh komponen selanjutnya dalam sebuah machine learning pipeline. Pada prosesnya terdapat tiga komponen yang akan diperiksa [9].
-
-•	Pemeriksaan parameter statistik. Pemeriksaan ini dilakukan untuk memastikan parameter statistik dari data yang baru sesuai dengan training dataset.
-
