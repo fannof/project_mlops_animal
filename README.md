@@ -19,7 +19,3 @@ Pipeline TFX terdiri dari beberapa komponen, yang dapat mencakup:
 7. Evaluator: Mengevaluasi performa model
   
 8. Pusher: Mendepoy model ke lingkungan produksi
-
-Tahapan dalam Data Ingestion
-
- Pada machine learning pipeline, komponen data ingestion akan mengerjakan beberapa tahapan untuk memastikan data yang masuk telah sesuai dan dapat diproses oleh komponen lain. Anda dapat menganggap tahapan ini sebagai proses ETL (extract, transform, load) yang sederhana.
