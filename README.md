@@ -33,8 +33,3 @@ Tahapan dalam Data Ingestion
    Tahapan kedua yang umum dijumpai adalah mengubah format data sesuai dan dapat diproses oleh komponen lain dalam sebuah machine learning pipeline. Ingatlah bahwa pada tahapan ini, kita hanya melakukan pengubahan format suatu data ke dalam format standar.
 
 •	Tahapan memuat data (load)
-
-   Tahap terakhir adalah memuat atau mentransfer data yang telah ditransformasi ke komponen lain yang terdapat dalam machine learning pipeline. Pada tahapan ini sering kali kita menambahkan proses split data untuk membagi data menjadi beberapa kategori, seperti training, evaluation, dan test set.
-
-
-
