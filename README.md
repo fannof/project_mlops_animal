@@ -36,6 +36,5 @@ Tahapan dalam Data Ingestion
 
    Tahap terakhir adalah memuat atau mentransfer data yang telah ditransformasi ke komponen lain yang terdapat dalam machine learning pipeline. Pada tahapan ini sering kali kita menambahkan proses split data untuk membagi data menjadi beberapa kategori, seperti training, evaluation, dan test set.
 
---Data Schema
 
 
