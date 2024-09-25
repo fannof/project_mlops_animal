@@ -14,7 +14,7 @@ Pipeline TFX terdiri dari beberapa komponen, yang dapat mencakup:
 
 5. Transform: Melakukan pra-pemrosesan data.
 
-6. Trainer: Melatih model menggunakan TensorFlow
+6. Trainer: Melatih model menggunakan TensorFlow.
 
 7. Evaluator: Mengevaluasi performa model
   
