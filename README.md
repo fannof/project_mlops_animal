@@ -18,4 +18,4 @@ Pipeline TFX terdiri dari beberapa komponen, yang dapat mencakup:
 
 7. Evaluator: Mengevaluasi performa model
   
-8. Pusher: Mendepoy model ke lingkungan produksi.
+8. Pusher: Mendepoy model ke lingkungan produksi
