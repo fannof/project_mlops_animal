@@ -12,7 +12,7 @@ Pipeline TFX terdiri dari beberapa komponen, yang dapat mencakup:
 
 4. ExampleValidator: Mendeteksi anomali dalam dataset.
 
-5. Transform: Melakukan pra-pemrosesan data
+5. Transform: Melakukan pra-pemrosesan data.
 
 6. Trainer: Melatih model menggunakan TensorFlow
 
